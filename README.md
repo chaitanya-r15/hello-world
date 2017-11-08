@@ -1,2 +1,2 @@
 # hello-world
-trial repo
+This is a trial repository for learning / understanding how GITHUB works.
